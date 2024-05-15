@@ -3,7 +3,18 @@
 * Javascript
 * React js
 * CSS3
-  
+
+# How to run:
+
+* Install Node.Js in your PC.
+* Install VS Code Editor or any other Code editor.
+* Download the project from this repository.
+* Open the downloaded project folder in your Code editor.
+* Open Terminal and then write these commands to run the project.
+* Commands :
+  npm install --force, and then, npm start
+* This project will start running on your localhost.
+   
 # Features:
 
 **Login:**
